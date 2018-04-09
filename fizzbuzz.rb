@@ -7,3 +7,4 @@ def fizzbuzz(int)
     flag = "FizzBuzz"
   return flag
 end
+end
